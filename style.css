@@ -115,3 +115,14 @@ footer{
 .footer-p{
     color: white;
 }
+.input-area h2{
+    text-area:center;
+    margin-top:50px;
+    font-weight:800;
+   
+}
+.input-area{
+    background:#f5ecec;
+    border:none;
+    border-radius:5px;
+}
